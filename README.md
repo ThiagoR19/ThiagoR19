@@ -1,6 +1,6 @@
-- 👋 Hola, soy @ThiagoR19
-- 👀 Soy un programador principante y planeo dedicarme a esto
-- 🌱 Actualmente estoy aprendiendo JavaScript
+- 👋 Hola, soy ThiagoR19
+- 👀 Soy un programador Full-Stack
+- 🌱 Actualmente estoy aprendiendo React. Ya poseo conocimientos de JavaScript, HTML, CSS, Node.js y Express.js, manejo de bases de datos con SQL, trabajo colaborativo con Git y Github. Diseño de interfaces con Figma y Miro. 
 - 📫 Podes contactarme atravez de mi mail riffothiago19@gmail.com
 
 <!---
